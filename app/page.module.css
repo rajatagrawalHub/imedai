@@ -82,6 +82,13 @@
     padding: 24px;
 }
 
+@media (min-width: 1280px) {
+    .heroPage{
+        margin: 100px;
+    }
+    
+}
+
 .doctor{
     width: 40vw;
     height: fit-content;
